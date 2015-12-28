@@ -6,20 +6,24 @@ public class FibonaccciEvenSum {
 	public static void main(String[] args) {
 		//The sum of even fibonacci numbers
 		
-		int total = 0; 
-		int fn = 1;
+		int fn1 = 1, fn2 = 2;
 		
-		while (fn <= 4000000) {
-			fn = fn + fn
+		int total = 2; 
+		
+		//Even numbers occur spaced about after two elements in the Fibonacci sequence
+		//1, (2), 3, 5, (8), 13, 21, (34), 55, 89, (144), 233, 377, (610)
+	
+		
 			
-		}
-
+			
 	}
 	
-	public static void fibonacciGenerator (int i){
-		if (m){}
+	//Method to generate the Fibonacci numbers
+	public static int Fibonacci(){
+		
+		return 0;
+		
 	}
-
 }
 
 
