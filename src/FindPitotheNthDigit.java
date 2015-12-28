@@ -15,6 +15,7 @@ public class FindPitotheNthDigit {
 		System.out.println("Enter number of decimal places (0-48) needed for PI: ");
 		int n = in.nextInt();
 
+		//check the user input
 		if (n >= 0 & n < 49 ){
 			BigDecimal pi1 = pi0.setScale(n, RoundingMode.FLOOR);
 			System.out.println("PI to "+n+" decimal places: "+pi1);
