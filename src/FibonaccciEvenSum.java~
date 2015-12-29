@@ -1,5 +1,4 @@
 
-/*Mike is here again!!!!*/
 public class FibonaccciEvenSum {
 	
 	//The sum of even Fibonacci numbers less than 4,000,000
